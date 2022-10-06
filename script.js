@@ -54,5 +54,5 @@ function check() {
         result = `<h3>Data tidak ditemukan!</h3>`;
 
     }
-    document.getElementById("hasil").innerHTML = result;
+    document.getElementById("biodata").innerHTML = result;
 }
