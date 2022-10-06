@@ -28,7 +28,7 @@ function check() {
                 <td>${value.nomor_telepon || '-'}</td>
               </tr>
               <tr>
-                <td>ID Line</td>
+                <td>ID line</td>
                 <td>:</td>
                 <td>${value.id_line || '-'}</td>
               </tr>
