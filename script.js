@@ -13,7 +13,7 @@ function check() {
                 <td>${value.nama_lengkap || '-'}</td>
               </tr>
               <tr>
-                <td>Nama Panggilan</td>
+                <td>Nama panggilan</td>
                 <td>:</td>
                 <td>${value.nama_panggilan || '-'}</td>
               </tr>
